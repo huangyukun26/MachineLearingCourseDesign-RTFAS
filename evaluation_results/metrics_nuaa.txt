@@ -1,0 +1,6 @@
+AUC: 0.8973
+Accuracy: 0.8198
+Precision: 0.7991
+Recall: 0.7409
+F1-score: 0.7689
+Optimal Threshold: 0.0003
