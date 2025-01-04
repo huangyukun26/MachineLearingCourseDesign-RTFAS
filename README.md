@@ -163,6 +163,8 @@ Results will be saved in `evaluation_results/`.
 
 ## Performance
 
+**If you need models for this course design, please contact me huangyukun@bjfu.edu.cn**
+
 On the NUAA test set:
 
 - AUC: 0.9876
